@@ -61,5 +61,3 @@ Key features:
 4. Simple installation instructions
 5. Dependency listing
 6. Clean markdown formatting
-
-Would you like me to add any specific sections about data collection methods or model deployment options?
